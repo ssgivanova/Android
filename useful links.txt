@@ -56,7 +56,6 @@ drawable-xhdpi Extra-high density—approximately 320 dots-per-inch.
 drawable-xxhdpi Extra-Extra-high density—approximately 480 dots-per-inch.
 drawable-xxxhdpi Extra-Extra-Extra-high density—approximately 640 dots-per-inch.
 
-
 http://developer.android.com/reference/android/app/Activity.html
 
 ------------------------------------------------------------------
@@ -111,7 +110,6 @@ http://developer.android.com/reference/android/widget/packagesummary.html
 Data binding
 
 https://developer.android.com/tools/data-binding/guide.html
-
 
 ------------------------------------------------------------------------
 
