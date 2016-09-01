@@ -1,0 +1,118 @@
+
+links
+
+http://design.google.com/resizer/#
+
+https://developers.google.com/cloud-test-lab
+
+https://material.uplabs.com/
+
+http://www.materialpalette.com/
+
+-------------------------------------------------------------------------
+
+Material Themes
+
+http://www.google.com/design/spec/style/color.html#color-themes
+
+http://developer.android.com/training/material/theme.html
+
+
+elevation and shadows
+
+http://www.google.com/design/spec/what-is-material/elevationshadows.html
+
+
+colors
+
+-primary color
+-dark primary color
+-accent color
+
+http://www.google.com/design/spec/style/color.html#color-colorpalette
+
+http://www.google.com/design/spec/style/color.html
+
+
+http://www.materialpalette.com/ - color recommendations
+
+
+Customizing Theme Colors
+
+http://developer.android.com/reference/android/R.attr.html
+
+
+material design guidelines
+
+http://developer.android.com/design/style/metrics-grids.html
+
+
+resolutions
+
+drawable-ldpi Low density—approximately 120 dots-per-inch.
+drawable-mdpi Medium density—approximately 160 dots-per-inch.
+drawable-hdpi High density—approximately 240 dots-per-inch.
+drawable-xhdpi Extra-high density—approximately 320 dots-per-inch.
+drawable-xxhdpi Extra-Extra-high density—approximately 480 dots-per-inch.
+drawable-xxxhdpi Extra-Extra-Extra-high density—approximately 640 dots-per-inch.
+
+
+http://developer.android.com/reference/android/app/Activity.html
+
+------------------------------------------------------------------
+
+emulator
+
+https://developer.android.com/studio/run/emulator.html#limitations
+
+https://developer.android.com/studio/run/emulator-commandline.html
+
+
+Back Esc
+Call/dial button F3
+Camera Ctrl-KEYPAD_5, Ctrl-F3
+End call button F4
+Home Home button
+Menu (left softkey) F2 or Page Up button
+
+Android functionality not available on the emulator
+• Making or receiving real phone calls (the emulator allows simulated calls only)
+• Bluetooth
+• USB connections
+• Device-attached headphones
+• Determining network connected state
+• Determining battery charge or power charging state
+• Determining SD card insert/eject
+• Direct support for sensors (accelerometer, barometer, compass, light sensor, proximity sensor)—
+it is possible, however, to use sensor data from a USB-connected device
+
+-------------------------------------------------------------------------
+
+Manifest and intents
+
+http://developer.android.com/guide/topics/manifest/manifestintro.html
+
+http://developer.android.com/reference/android/content/Intent.html#constants
+
+http://developer.android.com/guide/components/intents-filters.html
+
+-------------------------------------------------------------------------
+
+Android Support Libraries
+
+http://developer.android.com/tools/support-library
+
+http://developer.android.com/tools/support-library/index.html
+
+http://developer.android.com/reference/android/widget/packagesummary.html
+
+------------------------------------------------------------------------
+
+Data binding
+
+https://developer.android.com/tools/data-binding/guide.html
+
+
+------------------------------------------------------------------------
+
+java annonymous classes - http://docs.oracle.com/javase/tutorial/uiswing/events/generalrules.html#innerClasses
